@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HBHookAjaxs_Tests' do
+  pod 'HBHookAjaxs', :path => '../'
+  
+  
+end
